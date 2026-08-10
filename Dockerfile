@@ -12,7 +12,7 @@ COPY app/ app/
 COPY utils/ utils/
 
 # Chạy dưới quyền user thường
-RUN adduser --no-create-home appuser
+RUN useradd --no-create-home --shell /usr/sbin/nologin appuser
 USER appuser
 
 EXPOSE 8000
