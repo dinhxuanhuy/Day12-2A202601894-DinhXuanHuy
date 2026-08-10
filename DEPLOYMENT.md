@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Đinh Xuân Huy |
 | Mã học viên | 2A202601894 |
-| Repo | https://github.com/dinhxuanhuy/Day12-2A202601894-DinhXuanHuy |
+| Repo | https://github.com/dinhxuanhuy/K3-Day12-2A202601894-DinhXuanHuy |
 
 ## Service
 
